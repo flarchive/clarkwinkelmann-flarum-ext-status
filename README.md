@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-status.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-status) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-status).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-status/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**4** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-status/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-11-14 | `>=0.1.0-beta.10 <0.1.0-beta.12` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-status/tree/archive/v0.1.0) |
+| `0.1.1` | 2020-03-08 | `>=0.1.0-beta.10 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-status/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-04-17 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-status/tree/archive/v0.1.2) |
+| `1.0.0` | 2021-07-28 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-status/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-status.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-status.json)
 
